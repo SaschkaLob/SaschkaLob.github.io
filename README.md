@@ -1,2 +1,2 @@
-# SaschkaLob.github.io
+# SaschkaLob
 EA-Site
